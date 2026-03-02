@@ -1,16 +1,33 @@
-## Hi there 👋
+# 내 서랍장  
 
-<!--
-**fronthan/fronthan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="background:#f6f8fa; padding:16px; border-radius:8px; border:1px solid #d0d7de;">
+일상 속 물건을 한 곳에 정리하고 관리할 수 있는 개인 기록 앱입니다.  
 
-Here are some ideas to get you started:
+화장품, 책, 음식 등 내가 가진 물건을 체계적으로 정리하여 검색으로 위치를 찾을 수 있어요.
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<br/>
+<br/>
+
+## 1. 물건 등록 및 관리
+
+공간과 서랍을 나눠 물건을 등록하고 필요한 정보를 함께 기록할 수 있어요.
+<br/><br/><br/>
+      
+## 2. 간편한 검색
+
+이름 기반 검색으로 원하는 물건을 빠르게 찾을 수 있어요.
+<br/><br/><br/>
+    
+## 3. 유통기한 관리
+
+화장품과 음식은 유통기한을 등록해 푸시 알림을 받을 수 있어요.
+<br/><br/><br/><br/>
+
+### 이런 분들에게 추천해요
+
+- 물건 정리가 필요한 분
+- 소지품 관리 앱을 찾는 분
+- 나만의 개인 기록 앱을 만들고 싶은 분
+- 미니멀 라이프, 정리 습관을 만들고 싶은 분
